@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Título Principal</h1>
+    </header>
+
+    <main>
+        <p>Bienvenido a tu nueva página web.</p>
+    </main>
+
+    <footer>
+        <p>© 2025 Mi Sitio</p>
+    </footer>
+
+<iframe title="DET_2101_01-11" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=cbac8af1-2341-4ed8-b592-31b77fa821bd&autoAuth=true&ctid=5f282910-176f-459d-ab7d-b744aa6efc07" frameborder="0" allowFullScreen="true"></iframe>
+
+
+</body>
+</html>
+
